@@ -1,0 +1,16 @@
+src/components/ideas/IdeaDrawer.tsx(28,43): error TS7053: Element implicitly has an 'any' type because expression of type 'any' can't be used to index type 'Record<IdeaStatus, string>'.
+src/components/ideas/IdeaDrawer.tsx(28,71): error TS7053: Element implicitly has an 'any' type because expression of type 'any' can't be used to index type 'Record<IdeaStatus, string>'.
+src/components/ideas/IdeaDrawer.tsx(66,32): error TS7006: Parameter 'tag' implicitly has an 'any' type.
+src/components/ideas/IdeaDrawer.tsx(107,30): error TS7006: Parameter 'c' implicitly has an 'any' type.
+src/components/ideas/IdeaDrawer.tsx(107,33): error TS7006: Parameter 'idx' implicitly has an 'any' type.
+src/pages/Ideas.tsx(9,47): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/pages/Ideas.tsx(12,13): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/pages/Ideas.tsx(13,13): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/pages/Ideas.tsx(14,13): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/pages/Ideas.tsx(15,12): error TS7006: Parameter 'a' implicitly has an 'any' type.
+src/pages/Ideas.tsx(15,15): error TS7006: Parameter 'b' implicitly has an 'any' type.
+src/pages/Ideas.tsx(33,39): error TS2322: Type 'unknown' is not assignable to type 'Key | null | undefined'.
+src/pages/Ideas.tsx(33,47): error TS2322: Type 'unknown' is not assignable to type 'string | number | readonly string[] | undefined'.
+src/pages/Ideas.tsx(33,57): error TS2322: Type 'unknown' is not assignable to type 'ReactNode'.
+src/pages/Ideas.tsx(65,28): error TS7006: Parameter 'idea' implicitly has an 'any' type.
+src/pages/MyApplications.tsx(21,34): error TS7006: Parameter 'app' implicitly has an 'any' type.

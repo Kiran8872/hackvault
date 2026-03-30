@@ -1,0 +1,42 @@
+
+> frontend@0.0.0 lint
+> eslint .
+
+
+C:\projects\tt week-1\HackVault\frontend\src\components\ideas\IdeaDrawer.tsx
+  108:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\projects\tt week-1\HackVault\frontend\src\components\modals\Modals.tsx
+  36:14  error  'err' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\projects\tt week-1\HackVault\frontend\src\pages\Dashboard.tsx
+  15:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\projects\tt week-1\HackVault\frontend\src\pages\Shortlist.tsx
+   7:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\projects\tt week-1\HackVault\frontend\src\services\api.ts
+  19:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  76:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\projects\tt week-1\HackVault\frontend\src\store\AppContext.tsx
+  202:34  error  Unexpected any. Specify a different type                                                                                        @typescript-eslint/no-explicit-any
+  266:14  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+✖ 23 problems (23 errors, 0 warnings)
+
